@@ -1,1 +1,0 @@
-Muốn chạy được my-custom-node thì phải bỏ nó trong thư mục 6lrb/examples. Tức là nó cùng cấp với các ví dụ trong thư mục Example. (vì chưa sửa được đường dẫn để có thể make file ở vị trí khác)
