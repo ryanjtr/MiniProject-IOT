@@ -1,0 +1,11 @@
+- Test 6lbr on Cooja
++ Run 6lbr-demo.csc in folder /6lbr/example/6lbr-demo
++ In / /6lbr/example/6lbr/test/, issue: sudo make launch-6lbr-router-1-cooja
++ open web: http://[bbbb::100]
+Note: 
+- z1 can run both UDP and CoAP server
+- Sky only run UDP (not enough ROM)
+
+Can add more nodes contiki/examples/cc2538dk/
+- udp-echo-server
+- demo_cc2538 
